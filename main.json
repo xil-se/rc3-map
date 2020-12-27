@@ -150,7 +150,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/xil-se\/rc3-map\/main\/main.json"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_xil"
                 }],
          "type":"tilelayer",
          "visible":true,
